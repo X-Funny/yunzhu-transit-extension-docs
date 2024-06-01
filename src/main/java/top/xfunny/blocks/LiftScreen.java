@@ -1,26 +1,26 @@
 package top.xfunny.blocks;
 
 
-import org.jetbrains.annotations.NotNull;
 import org.mtr.mapping.holder.BlockPos;
 import org.mtr.mapping.holder.BlockState;
-import org.mtr.mapping.holder.CompoundTag;
 import org.mtr.mapping.mapper.BlockEntityExtension;
 import org.mtr.mapping.tool.HolderBase;
+
 import org.mtr.mod.block.BlockLiftPanelBase;
 
+import javax.annotation.Nonnull;
 import java.util.List;
 
 public class LiftScreen extends BlockLiftPanelBase {
 
     public LiftScreen() {
         super(false, false);
-        System.out.println("LiftScreen已创建");
+
     }
 
-
+    @Nonnull
     @Override
-    public @NotNull BlockEntityExtension createBlockEntity(BlockPos blockPos, BlockState blockState) {
+    public BlockEntityExtension createBlockEntity(BlockPos blockPos, BlockState blockState) {
         return new BlockEntity(blockPos, blockState);
     }
 
