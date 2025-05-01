@@ -8,13 +8,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Docs Demo",
-      description: "A docs demo for vuepress-theme-hope",
+      title: "Yunzhu Transit Extension",
+      description: "A Minecraft Mod",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "云竹交通",
+      description: "一个Minecraft Transit Railway 拓展模组",
     },
   },
 

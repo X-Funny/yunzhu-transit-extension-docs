@@ -2,7 +2,7 @@
 home: true
 icon: house
 title: Project home
-heroImage: http://image.yunzhu.host/i/2025/05/01/68132161a60e4.png
+heroImage: http://image.yunzhu.host/i/2025/05/01/681360e41ac10.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:

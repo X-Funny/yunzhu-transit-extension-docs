@@ -4,9 +4,9 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://docs.yunzhu.host",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "http://image.yunzhu.host/i/2025/05/01/681362e0eb613.webp",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -20,7 +20,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "© 2025 Yunzhu. All rights reserved.",
 
       displayFooter: true,
 
@@ -39,7 +39,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "© 2025 云筑工坊。 保留所有权利。",
 
       displayFooter: true,
 
