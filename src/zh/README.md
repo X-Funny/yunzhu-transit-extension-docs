@@ -13,21 +13,24 @@ heroStyle:
   min-height: 600px
 actions:
   - text: 下载
-    icon: lightbulb
+    icon: download
     link: ./demo/
     type: primary
 
   - text: 文档
     link: ./doc/
 
-  - text: 交流群QQ
-    link: ./guide/
+  - text: 项目仓库
+    link: https://github.com/X-Funny/Yunzhu-Transit-Extension.git
+
+  - text: QQ交流群
+    link: https://qm.qq.com/cgi-bin/qm/qr?k=q3B59hGBncprEKzhR0vNpAVVT9qVeYnJ&jump_from=webapi&authKey=ZMq3Nr/e8Vl1HIli8GIz/06D2tGcV/lXGrPRuE5PkIBtIv5991beUQPBC+utxlFL
 
 highlights:
 - header: 现已开启公测！
   image: http://image.yunzhu.host/i/2025/05/01/68137b6f1a0ac.webp
-  bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-  bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+  bgImage: http://image.yunzhu.host/i/2025/05/01/68139168cb256.webp
+  bgImageDark: http://image.yunzhu.host/i/2025/05/01/681391691400f.webp
   highlights:
   - title: 提供更加丰富的电梯部件，满足多样化建造需求。
   - title: 利用批量楼层设置器与电梯连接器，提高电梯安装效率，释放创造力！

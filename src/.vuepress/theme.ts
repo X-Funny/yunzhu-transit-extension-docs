@@ -8,9 +8,11 @@ export default hopeTheme({
 
   logo: "http://image.yunzhu.host/i/2025/05/01/681362e0eb613.webp",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "X-Funny/yunzhu-transit-extension-docs",
+  repoLabel: "GitHub",
 
   docsDir: "src",
+  docsBranch: "docs",
 
   locales: {
     "/": {
