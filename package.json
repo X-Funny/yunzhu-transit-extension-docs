@@ -1,0 +1,20 @@
+{
+  "name": "yte-docs",
+  "description": "A Minecraft-Transit-Railway Extension Mod",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.22",
+    "sass-embedded": "^1.86.3",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.22",
+    "vuepress-theme-hope": "2.0.0-rc.84"
+  }
+}
