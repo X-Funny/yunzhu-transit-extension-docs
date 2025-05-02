@@ -14,7 +14,7 @@ heroStyle:
 actions:
   - text: Download
     icon: download
-    link: ./demo/
+    link: https://modrinth.com/mod/yunzhu-transit-extension
     type: primary
 
   - text: Document

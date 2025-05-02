@@ -18,7 +18,7 @@ Before installing Yunzhu Transit Extension, you must first install the Minecraft
 ## STEP.02 Download the Yunzhu Transit Mod
 
 You can download the mod from the following source:  
-[Download Yunzhu Transit Extension (via Modrinth)](https://modrinth.com/mod/minecraft-transit-railway)
+[Download Yunzhu Transit Extension (via Modrinth)](https://modrinth.com/mod/yunzhu-transit-extension)
 
 ## STEP.03 All Set!
 
