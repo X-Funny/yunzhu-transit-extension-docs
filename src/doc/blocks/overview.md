@@ -1,16 +1,16 @@
 ---
-title: 方块
+title: Blocks
 icon: download
 ---
-## STEP.01 准备工作
-### 安装Minecraft及Mod Loader
-Yunzhu Transit Extension 目前支持1.16.5-1.20.4 Fabric / Forge
-若将 Fabric 作为您的模组加载器，请安装Fabric API
-### 安装Minecraft Transit Railway模组
-安装 Yunzhu Transit Extension 之前，请先安装 Minecraft Transit Railway 模组
-[Minecraft Transit Railway 模组下载连接（Moedrinth）](https://modrinth.com/mod/minecraft-transit-railway)。
-## STEP.02 下载云竹交通mod
-您可以从以下来源获取此Mod
-[Yunzhu Transit Extension 模组下载连接（Moedrinth）]()。
-## STEP.03 大功告成！
-启动游戏，即可探索 Yunzhu Transit Extension 模组。
+## 电梯门
+| Name | Image | Variations | First appearance |
+| - | - | :-: | - |
+| Hitachi B85 Doors | ![](http://image.yunzhu.host/i/2025/05/02/6814483b264c8.png) | 1 | 1.0.0 |
+| Kone M Series Doors | ![](http://image.yunzhu.host/i/2025/05/02/68144838beee4.png) | 1 | 1.0.0 |
+| Mitsubishi NexWay Doors | ![](http://image.yunzhu.host/i/2025/05/02/6814482ee1822.png) | 1 | 1.0.0 |
+| Schindler QKS9 Doors | ![](http://image.yunzhu.host/i/2025/05/02/68144889385d2.png) | 1 | 1.0.0 |
+
+## 电梯配件
+| Name | Image | Brand | Type | Block usage | Screen | First appearance |
+| - | - | :-: | - | - | - | - |
+| Hitachi B85 Call Panel | ![]() | Hitachi | 1 |  | Yes | 1.0.0 |
